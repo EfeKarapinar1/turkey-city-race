@@ -1,0 +1,3 @@
+g[id="turkiye"] > g[data-is-election-city="true"] > path {
+    fill: red !important;
+}
